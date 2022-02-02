@@ -1,0 +1,14 @@
+{
+  "$schema": "http://mekschemas.netlify.app/modpackager/v2/",
+  "UnfuzerPath": "..\\..\\Game Root\\Tools\\unfuzer",
+  "ModInfo": {
+    "Name": "Chair Horse",
+    "Version": "1.0.0",
+    "Author": "Mark E. Kraus",
+    "Description": "Adds a Chair Horse to Skyrim.",
+    "Website": "{NEWURL}",
+    "Category": "Creatures and Mounts",
+    "Logo": "logo.png"
+  },
+  "Plugin": "MarkekrausChairHorse.esp"
+}

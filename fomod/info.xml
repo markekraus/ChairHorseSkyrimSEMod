@@ -1,0 +1,10 @@
+<fomod>
+    <Name>Chair Horse</Name>
+    <Author>Mark E. Kraus</Author>
+    <Version>1.0.0</Version>
+    <Website>{NEWURL}</Website>
+    <Description>Adds a Chair Horse to Skyrim.</Description>
+    <Groups>
+        <element>Creatures and Mounts</element>
+    </Groups>
+</fomod>
