@@ -8,7 +8,7 @@ My mods:
 
 * [Barstool Brawler](https://www.nexusmods.com/skyrimspecialedition/mods/61354)
 * [Chairhammers - Chair Warhammers](https://www.nexusmods.com/skyrimspecialedition/mods/61304)
-* [Chair Horse]({NEWURL})
+* [Chair Horse](https://www.nexusmods.com/skyrimspecialedition/mods/63037)
 * [Chairrows - Chair Arrows](https://www.nexusmods.com/skyrimspecialedition/mods/61168)
 * [Cheat Jewelry](https://www.nexusmods.com/skyrimspecialedition/mods/58973)
 * [Cheat Powers](https://www.nexusmods.com/skyrimspecialedition/mods/58892)
@@ -81,7 +81,7 @@ This mod can be installed in any order.
 
 ## Compatibility
 
-This mod is not compatible with Sentient Chairs of Skyrim.
+This mod is not compatible with Sentient Chairs of Skyrim. Sentient Chairs of Skyrim already includes all of the functionality included in this mod.
 
 This mod has not been tested with any mods that change the behavior of horses. It is possible this mod is not compatible with mods like Convenient Horses.
 
